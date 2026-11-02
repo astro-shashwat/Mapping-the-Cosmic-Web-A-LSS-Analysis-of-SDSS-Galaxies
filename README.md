@@ -1,6 +1,6 @@
 # Mapping the Cosmic Web: Large-Scale Structure of SDSS Galaxies
 
-[![Open In Colab](https://colab.research.google.com/drive/1nDNssEsZvWG8c0JLhqRsLw3AYwq0Z_Af#scrollTo=skwm9gWHld-a)
+[![Open In Colab](https://colab.research.google.com/drive/1nDNssEsZvWG8c0JLhqRsLw3AYwq0Z_Af?usp=sharing)
 
 Reconstruction of the large-scale structure of the Universe from ~100,000 SDSS spectroscopic
 galaxies: from raw (RA, Dec, z) to comoving coordinates, exploratory analysis of the survey
