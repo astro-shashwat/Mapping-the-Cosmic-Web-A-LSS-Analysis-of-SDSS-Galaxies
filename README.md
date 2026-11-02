@@ -1,6 +1,6 @@
 # Mapping the Cosmic Web: Large-Scale Structure of SDSS Galaxies
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/sdss-cosmic-web/blob/main/notebooks/cosmic_web_sdss.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1nDNssEsZvWG8c0JLhqRsLw3AYwq0Z_Af#scrollTo=skwm9gWHld-a)
 
 Reconstruction of the large-scale structure of the Universe from ~100,000 SDSS spectroscopic
 galaxies: from raw (RA, Dec, z) to comoving coordinates, exploratory analysis of the survey
@@ -37,8 +37,8 @@ galaxy density, not corrected matter density.
 
 **Locally:**
 ```bash
-git clone https://github.com/USERNAME/sdss-cosmic-web.git
-cd sdss-cosmic-web
+git clone https://github.com/astro-shashwat/Mapping-the-Cosmic-Web-A-LSS-Analysis-of-SDSS-Galaxies.git
+cd Mapping-the-Cosmic-Web-A-LSS-Analysis-of-SDSS-Galaxies
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 # put SDSS_data_galaxies.csv in data/ (see data/README.md), then
